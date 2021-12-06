@@ -3,8 +3,8 @@
 
 > Vacation_Itinerary (folder)  
 > > Vacation_Itinerary.ipynb   
-> > WeatherPy_Vacation_map.png   
-> > WeatherPy_travel_map_markers.png   
+> > WeatherPy_Vacation_map.png.png   
+> > WeatherPy_travel_map_makers.png   
 ---   
 > Vacation_Search (folder)  
 > > Vacation_Search.ipynb   
@@ -13,8 +13,7 @@
 ---   
 > Weather_Database (folder)   
 > > WeatherPy_database.csv   
-> > Weather_Database.ipynb   
-> > Weather_Hotel_Map.png   
+> > Weather_Database.ipynb    
 ---   
 >.gitinore
 ---   
