@@ -3,7 +3,7 @@
 
 > Vacation_Itinerary (folder)  
 > > Vacation_Itinerary.ipynb   
-> > WeatherPy_Vacation_map.png.png   
+> > WeatherPy_Vacation_map.png   
 > > WeatherPy_travel_map_makers.png   
 ---   
 > Vacation_Search (folder)  
